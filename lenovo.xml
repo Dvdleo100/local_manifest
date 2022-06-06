@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
+  <?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
   <!-- device trees -->
   <project name="lenovo-jd20/android_device_lenovo_jd20" path="device/lenovo/jd20" remote="github" revision="lineage-18.1"/>
-
+  
   <!-- kernel -->
   <project name="lenovo-jd20/android_kernel_lenovo_sm6150" path="kernel/lenovo/sm6150" remote="github" revision="lineage-18.1"/>
-
+  
   <!-- vendor -->
   <project name="lenovo-jd20/proprietary_vendor_lenovo" path="vendor/lenovo" remote="github" revision="lineage-18.1"/>
-
+  
 </manifest>
